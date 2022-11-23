@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+.b {
+    display: flex;
+    justify-content: center;
+}
+
+.a {
+    width: 330px;
+    height: 75px;
+    border: 1px solid brown;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.adress {
+    width: 350px;
+    display: flex;
+    margin-left: 500px;
+    justify-content: space-between;
+}
